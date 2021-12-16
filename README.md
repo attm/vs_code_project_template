@@ -1,2 +1,3 @@
 ## VS Code Project Template for personal use
-This is simple template for Python data science projects. Docker container and VS Code remote development extension will be used for making an env for that project.
+This is simple template for python data science projects. 
+Docker container and VS Code remote development extension are used as python env.
